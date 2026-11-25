@@ -1,5 +1,11 @@
 # HID-Access-Control PHP SDK
 
+<!-- simple-start:start -->
+Use HID-Access-Control from a PHP app.
+
+**Start here.** Run `composer require titancsa/hid-access-control`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
